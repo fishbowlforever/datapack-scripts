@@ -1,0 +1,2 @@
+# Unlock all recipes function generator
+A simple script that generates a function inside of your datapack that will unlock all your datapacks recipes for the executing player. You will need to adjust some variables inside the script to make it work.
