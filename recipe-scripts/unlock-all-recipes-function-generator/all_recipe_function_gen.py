@@ -1,7 +1,9 @@
+# author: fishbowlforever
+
 from os import sep
 from glob import iglob
 
-recipePath = "DatapackName/data/datapack_namespace/recipe(s)/" #replace with your path
+recipePath = "datapackName/data/datapack_namespace/recipe(s)/" #replace with your path
 functionPath = "DatapackName/data/datapack_namespace/function(s)/" #replace with your path
 namespace = "datapack_namespace" #replace with your namespace
 

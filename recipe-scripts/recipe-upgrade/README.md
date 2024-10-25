@@ -1,0 +1,1 @@
+When having many Recipes inside a datapack, updating them can be exhausting and error-prone. These scripts should make it easier.
